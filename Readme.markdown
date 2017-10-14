@@ -20,7 +20,7 @@ This project is a nice starting point with some baked in goodies
   )
 - [CoffeeScript](http://coffeescript.org/)
 - [MiniTest](https://github.com/seattlerb/minitest) (testing the rubies)
-- [Mocha](http://visionmedia.github.com/mocha/) with [chai](http://chaijs.com/) (js testing)
+- [Mocha](https://mochajs.org/) with [chai](http://chaijs.com/) (js testing)
 - [Thin](http://code.macournoyer.com/thin/)
 - [Guard](https://github.com/guard/guard)
 - [LiveReload](https://github.com/guard/guard-livereload)
